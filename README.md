@@ -11,8 +11,6 @@ If you like this repo, be sure to ⭐ it.
 |  #  | Project | Live Demo | tutorial
 | --- | ------------------------------------------------ | --------------------  | ------------- |
 | 01  | [3d social media icon] [Live Demo](https://3d-social-media-icons.netlify.app/)| 
-
-| 02  | [Profile Card] [Live Demo](https://profile-card-animation.netlify.app/)|
 | 03  | [Sticky Navbar] [Live Demo](https://responsive-sticky-navbar.netlify.app/)|
 | 04  | [Search Bar] [Live Demo](https://animated-searchbar.netlify.app/)|
 | 05  | [Slideshow] [Live Demo](https://slideshow-animation.netlify.app/)| 
